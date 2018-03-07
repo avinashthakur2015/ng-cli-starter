@@ -1,0 +1,14 @@
+@import './../fonts/ubuntu/ubuntu';
+
+/*Application Styling*/
+
+@import 'core';
+
+/*Component Styling*/
+
+
+/**
+Note:-Specific styling will be kept at component level
+*/
+
+@import 'module/bootstrap/protected.scss'

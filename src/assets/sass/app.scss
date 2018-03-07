@@ -11,4 +11,7 @@
 Note:-Specific styling will be kept at component level
 */
 
-@import 'module/bootstrap/protected.scss'
+@import 'module/bootstrap/protected.scss';
+@import 'module/bootstrap/sidenav.scss';
+@import 'module/bootstrap/toolbar.scss';
+@import 'module/bootstrap/content.scss';
